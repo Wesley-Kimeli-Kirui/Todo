@@ -46,207 +46,37 @@
         }
       },
       {
-        "HashCode": 1581033907,
+        "HashCode": 1928417529,
         "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Counter",
+        "Name": "TodoApp.Shared.NavMenu",
         "AssemblyName": "TodoApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 888918815,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Counter",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoApp.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1355401089,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.FetchData",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -333572907,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.FetchData",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoApp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.FetchData",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -425150836,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Index",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 636864211,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Index",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -603939834,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Todos",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Todos"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Todos",
-          "Common.TypeNameIdentifier": "Todos",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -1677663869,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Pages.Todos",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoApp.Pages.Todos"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Pages.Todos",
-          "Common.TypeNameIdentifier": "Todos",
-          "Common.TypeNamespace": "TodoApp.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 1042068002,
-        "Kind": "Components.Component",
-        "Name": "TodoApp.Shared.SurveyPrompt",
-        "AssemblyName": "TodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "TodoApp.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
+          "Common.TypeName": "TodoApp.Shared.NavMenu",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Common.TypeNamespace": "TodoApp.Shared",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1680068064,
+        "HashCode": -801770930,
         "Kind": "Components.Component",
-        "Name": "TodoApp.Shared.SurveyPrompt",
+        "Name": "TodoApp.Shared.NavMenu",
         "AssemblyName": "TodoApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoApp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
+            "TagName": "TodoApp.Shared.NavMenu"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "TodoApp.Shared.SurveyPrompt",
-          "Common.TypeNameIdentifier": "SurveyPrompt",
+          "Common.TypeName": "TodoApp.Shared.NavMenu",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Common.TypeNamespace": "TodoApp.Shared",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -359,38 +189,38 @@
         }
       },
       {
-        "HashCode": 1928417529,
+        "HashCode": -603939834,
         "Kind": "Components.Component",
-        "Name": "TodoApp.Shared.NavMenu",
+        "Name": "TodoApp.Pages.Todos",
         "AssemblyName": "TodoApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Todos"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "TodoApp.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "TodoApp.Shared",
+          "Common.TypeName": "TodoApp.Pages.Todos",
+          "Common.TypeNameIdentifier": "Todos",
+          "Common.TypeNamespace": "TodoApp.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -801770930,
+        "HashCode": -1677663869,
         "Kind": "Components.Component",
-        "Name": "TodoApp.Shared.NavMenu",
+        "Name": "TodoApp.Pages.Todos",
         "AssemblyName": "TodoApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoApp.Shared.NavMenu"
+            "TagName": "TodoApp.Pages.Todos"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "TodoApp.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "TodoApp.Shared",
+          "Common.TypeName": "TodoApp.Pages.Todos",
+          "Common.TypeNameIdentifier": "Todos",
+          "Common.TypeNamespace": "TodoApp.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
@@ -15958,18 +15788,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
@@ -15983,18 +15803,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\App.razor",
       "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Wesley\\Desktop\\Blazor\\TodoApp\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     }
   ],
